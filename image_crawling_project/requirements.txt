@@ -1,0 +1,8 @@
+scrapy
+scrapy-splash
+cookiecutter
+selenium
+scrapy-selenium
+pymongo
+python-dotenv
+Pillow
